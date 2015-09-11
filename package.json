@@ -1,0 +1,26 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "proxy",
+  "main": "proxy.js",
+  "dependencies": {
+    "http-proxy": "^1.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hutuxu/proxy.git"
+  },
+  "keywords": [
+    "proxy"
+  ],
+  "author": "hutuxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hutuxu/proxy/issues"
+  },
+  "homepage": "https://github.com/hutuxu/proxy#readme"
+}
